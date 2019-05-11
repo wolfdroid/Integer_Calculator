@@ -1,5 +1,5 @@
 # Integer Calculator
-Simple RTL Design for Integer Number Calculation for Altera Family and other compatible FPGAs using VHDL.
+Simple RTL Design for Integer Number Calculation in Altera Family and other compatible FPGAs using VHDL.
 
 ## Guide
 1. Make new Project in `Quartus Prime Software`.
