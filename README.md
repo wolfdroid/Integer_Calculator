@@ -25,7 +25,7 @@ Simple RTL Design for Integer Number Calculation in Altera Family and other comp
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## :camera: Documentation
-For documentation, check in the `Documentation` that are provided in this repository.
+For documentation, check in the `documentation` folder that are provided in this repository.
 
 ## For more information about tools that being used in this project
 <a href = "https://www.mentor.com/company/higher_ed/modelsim-student-edition">
