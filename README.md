@@ -2,7 +2,7 @@
 Simple RTL Design for Integer Number Calculation for Altera Family and other compatible FPGAs using VHDL.
 
 ## Guide
-1. Make new Project in `Quartus Prime Lite`.
+1. Make new Project in `Quartus Prime Software`.
 2. Generate 32x8 bits single-port RAM.
 3. Create 7 Segment Entity for Output.
 4. Create each Arithmatical operation entity ( this project will only covers addition, substraction, division, multiplication, factorial, square, volume, and square root operation ).
@@ -24,6 +24,14 @@ Simple RTL Design for Integer Number Calculation for Altera Family and other com
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Compile Result
+## :camera: Documentation
+For documentation, check them in the `Documentation` that are provided in this repository.
 
-## Simulation Result
+## For more information about tools that being used in this project
+<a href = "https://www.mentor.com/company/higher_ed/modelsim-student-edition">
+  <img src="https://media.digikey.com/photos/Altera%20Photos/modelsim.jpg" width="10%" height="10%">
+</a>
+<br>
+<a href = "https://www.intel.co.id/content/www/id/id/software/programmable/quartus-prime/overview.html">
+  <img src="https://www.doulos.com/images/logos/Quartus_Prime.jpg" width="15%" height="15%"'>
+</a>
