@@ -35,8 +35,6 @@ ARCHITECTURE dataflow OF Memblock_Calc IS
     signal data_add6 : STD_LOGIC_VECTOR(7 downto 0);
     signal data_add7 : STD_LOGIC_VECTOR(7 downto 0);
     signal data_add8 : STD_LOGIC_VECTOR(3 downto 0);
-    signal data_add9 : STD_LOGIC_VECTOR(7 downto 0);
-    signal data_add10: STD_LOGIC_VECTOR(7 downto 0);
     --Temporary Signal Selection
     signal case1    : STD_LOGIC_VECTOR(3 downto 0);
     SIGNAL case2    : STD_LOGIC_VECTOR(7 DOWNTO 0);
