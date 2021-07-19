@@ -10,7 +10,7 @@ Simple RTL Design for Integer Number Calculation in Altera Family and other comp
 
 ## Source Code
 - <a href = "https://github.com/WolfDroid/Integer_Calculator/blob/master/Memblock_Calc.vhd" >Main Entity</a>
-- <a href = "https://github.com/WolfDroid/Integer_Calculator/blob/master/seven_segment.vhdd" >Seven Segment Module</a>
+- <a href = "https://github.com/WolfDroid/Integer_Calculator/blob/master/seven_segment.vhd" >Seven Segment Module</a>
 - <a href = "https://github.com/WolfDroid/Integer_Calculator/blob/master/ram32x8.vhd" >RAM Module</a>
 - <a href = "https://github.com/WolfDroid/Integer_Calculator/blob/master/Decimal_Adder.vhd" >Additon Function</a>
 - <a href = "https://github.com/WolfDroid/Integer_Calculator/blob/master/Decimal_Substractor.vhd" >Substraction Function</a>
